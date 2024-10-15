@@ -32,7 +32,7 @@ function Hero() {
         <h1>
           Harris <br /> Johnson
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>NLP Engineer</h2>
         <span>
           <a href="htto/twitter.com/" target="_blank">
             <img src={twitterIcon} alt="twitter Icon" />
@@ -44,7 +44,7 @@ function Hero() {
             <img src={linkedinIcon} alt="Linkedin Icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           With a passion for developing modern React web apps for commercial
           businesses
         </p>
