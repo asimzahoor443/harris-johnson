@@ -32,7 +32,7 @@ function Hero() {
         <h1>
           Harris <br /> Johnson
         </h1>
-        <h2>NLP Engineer</h2>
+        <h2>Web Engineer</h2>
         <span>
           <a href="htto/twitter.com/" target="_blank">
             <img src={twitterIcon} alt="twitter Icon" />
